@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.9242749
+  lightness: 0.8168636
+  brandStrength: 0.5247046
+  brandColors:
+    - '#301D17'
+    - '#774228'
+    - '#FCF19B'
+    - '#877777'
+    - '#E86E38'
+  rhythmicContrast: 0.3109559
+typography_spectrum: 0.2207304
+name: cerberus.no
