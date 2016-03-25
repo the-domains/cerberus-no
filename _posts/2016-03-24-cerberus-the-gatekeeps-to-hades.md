@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Cerberus - the gatekeeper of Hades
-datePublished: '2016-03-25T23:49:30.967Z'
-dateModified: '2016-03-25T23:49:03.453Z'
+datePublished: '2016-03-25T23:58:39.709Z'
+dateModified: '2016-03-25T23:58:27.749Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-24-cerberus-the-gatekeeps-to-hades.md
