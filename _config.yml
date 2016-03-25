@@ -1,4 +1,4 @@
-name: cerberus.no
+name: Cerberus
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.2207304
@@ -22,8 +22,8 @@ color:
     - '#FCF19B'
     - '#877777'
     - '#E86E38'
-  brandStrength: 0.5247046
-  lightness: 0.8168636
-  saturation: 0.9242749
-  rhythmicContrast: 0.75
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.75
+  rhythmicContrast: 0.25
 purpose: []
